@@ -12,6 +12,7 @@ git push origin Head
 git log
 git diff
 git reset --hard HEAD@{1}
+git reset 'HARD@{1}'
 git reset HEAD^1
 git checkout filename
 ```
