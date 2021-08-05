@@ -18,4 +18,6 @@ git checkout filename
 git checkout branch_name
 git branch
 git branch new_branch_name
+git pull origin HEAD
+# HEAD --> current branch
 ```
