@@ -1,6 +1,6 @@
 # Learning Git
-#AUTH
-#readme changed
+# AUTH
+# readme changed
 ### Git Commands
 
 ```
